@@ -1,7 +1,7 @@
 study_prefix = "test_study"
 
-[file_config]
-file_names = [
+[[stages.default]]
+files = [
     "foo.sql",
     "foobar.sql"
 ]
